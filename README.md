@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Welcome;Wominjeka)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Welcome;Wominjeka)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tianze-Unimelb)
 <picture>
