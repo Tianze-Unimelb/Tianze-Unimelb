@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=FFFFFF00&width=435&lines=Welcome!+My+friend!;Wominjeka!Ngurrng!%E2%80%8B)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tianze-Unimelb&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=Tianze-Unimelb)
 ---
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tianze-Unimelb)
