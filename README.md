@@ -3,7 +3,7 @@
 ---
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 ---
-<!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tianze-Unimelb) -->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tianze-Unimelb)
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tianze-Unimelb/Tianze-Unimelb/output/github-contribution-grid-snake-dark.svg">
