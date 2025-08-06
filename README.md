@@ -10,16 +10,16 @@
 
 <!-- 数据统计总览 -->
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Tianze-Unimelb&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Tianze-Unimelb&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Tianze-Unimelb&theme=github-compact&hide_border=true&area=true">
-<!-- <br/> -->
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Tianze-Unimelb&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
+<img width="400" src="https://github-readme-streak-stats-eight.vercel.app?user=Tianze-Unimelb&theme=transparent&hide_border=true" alt="Tianze-Unimelb" title="Streak Stats" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tianze-Unimelb&theme=transparent&hide_border=true&layout=compact&langs_count=22" />-->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianze-Unimelb&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />-->
 </p> 
 
 <!-- 成就展示栏 -->
+<p align="center">
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Tianze-Unimelb&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
 <p align="center">
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=Tianze-Unimelb&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
