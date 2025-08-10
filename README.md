@@ -18,7 +18,8 @@
 
 <!-- 成就展示栏 -->
 <p align="center">
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Tianze-Unimelb&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianze-Unimelb&layout=donut"/>
+    <img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=Tianze-Unimelb&theme=github-compact&hide_border=true&area=true&custom_title=Tianze's%20Activity%20Graph" alt="Activity Graph" title="Activity Graph"/>
 </p>
 <p align="center">
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=Tianze-Unimelb&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
