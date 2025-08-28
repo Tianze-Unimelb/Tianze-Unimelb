@@ -22,7 +22,7 @@
     <img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=Tianze-Unimelb&theme=github-compact&hide_border=true&area=true&custom_title=Tianze's%20Activity%20Graph" alt="Activity Graph" title="Activity Graph"/>
 </p>
 <p align="center">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Tianze-Unimelb&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Tianze-Unimelb&no-bg=true&no-frame=true&theme=algolia&title=MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 
 <!-- 技能展示栏 -->
