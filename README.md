@@ -9,8 +9,9 @@
 </p>
 
 <!-- 数据统计总览 -->
-<p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Tianze-Unimelb&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
+<!-- p align="center" -->
+<!-- img width="400" src="https://github-readme-stats.vercel.app/api?username=Tianze-Unimelb&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats"-->
+[Stats](./profile/stats.svg)
 <img width="400" src="https://github-readme-streak-stats-eight.vercel.app?user=Tianze-Unimelb&theme=transparent&hide_border=true" alt="Tianze-Unimelb" title="Streak Stats" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tianze-Unimelb&theme=transparent&hide_border=true&layout=compact&langs_count=22" />-->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianze-Unimelb&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />-->
